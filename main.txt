@@ -1,1 +1,2 @@
 Main go next.
+Add str in main.
